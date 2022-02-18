@@ -7,7 +7,7 @@ Import Credential from credential module to access an account's credentials
 from credential import Credential
 
 '''
-User class : for creating a password locker account
+User class : for creating a Credit Card Safe account
 '''
 
 class User:
