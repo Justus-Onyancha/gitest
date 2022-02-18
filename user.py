@@ -1,3 +1,10 @@
+'''
+Credential Module by Justus Onyancha TM
+
+Import random and string modules from Python for generating passwords to store credit cards
+
+'''
+
 from random import choice
 
 import string
